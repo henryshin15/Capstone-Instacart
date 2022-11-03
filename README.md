@@ -16,11 +16,11 @@ The data is from a [Kaggle](https://www.kaggle.com/competitions/instacart-market
 The data is divided into 6 files:  
 <br/>
 
-**Products.csv**: 49,688 Unique product ids, with description, aisle id, and department id
+**Products.csv**: 49,688 Unique product ids, with description, aisle id, and department id\
 **Aisles.csv**: 134 Unique aisle numbers and descriptions  
 **Departments.csv**: 21 Unique department numbers and descriptions  
 **Order_products__prior.csv**: Order id, product id, add to cart order, and reorder indicator  
-**Order_products__train.csv**: Order id, product id, add to cart order, and reorder indicator
+**Order_products__train.csv**: Order id, product id, add to cart order, and reorder indicator\
 **Orders.csv**: 3,421,083 Unique order id, with user id, order number, order_dow, order_hour_of_day, days_since_prior_order, and eval_set indicating if the order is in train, prior, or test 
 
 # Modeling
