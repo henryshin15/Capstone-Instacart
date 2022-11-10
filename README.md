@@ -29,7 +29,7 @@ The data is divided into 6 files:
 Final Model can predict 90% accurately if a customer reorders a product (Random Forest Classifier). 
 
 ## Featured Notebooks and Presentation
-* [Notebooks](https://github.com/henryshin15/Capstone-Instacart/blob/main/Main%20Notebook.ipynb)(https://github.com/henryshin15/Capstone-Instacart/blob/main/Classification%20and%20Modeling.ipynb)
+* [Main Notebooks](https://github.com/henryshin15/Capstone-Instacart/blob/main/Main%20Notebook.ipynb)[Modeling](https://github.com/henryshin15/Capstone-Instacart/blob/main/Classification%20and%20Modeling.ipynb)
 * [Presentation](https://github.com/henryshin15/Capstone-Instacart/blob/main/Capstone%20Presentation-2.pdf)
 
 
