@@ -1,7 +1,7 @@
 # Online Grocery Shopping Reccomendation System
 # Capstone Project
 ## Business Problem
-A grocery store with online purchasing ability wants to predict which previously bought products a customer has purchased will be in its next order and wants to implement a recommendation system that suggests products based on the customer's basket, shopping history, and from other people's similiar baskets and their products. 
+A grocery store with online purchasing ability wants to predict which previously bought products a customer has purchased will be in its next order (primary goal) and wants to implement a recommendation system that suggests products based on the customer's basket, shopping history, and from other people's similiar baskets and their products (secondary goal). 
 
 ## Data Science Major Concepts
   * Market Basket Analysis (Primary Goal)
