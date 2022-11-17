@@ -32,7 +32,7 @@ The data is divided into 6 files:
 ### Logistic Regression
 - Final Model can predict 75% precisely if a customer reorders a product. 
 
-![Confusion Matrix](./images/logisitic regression CM.png)
+![Confusion Matrix](./images/log_reg_CM.png)
 
 ## Recommendations
 From this analysis I have generated the following recommendations that GroceriesToGo can utilize:
