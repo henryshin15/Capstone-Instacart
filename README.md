@@ -1,5 +1,5 @@
 # Market Basket Analysis - Instacart Data
-# Capstone Project
+# Capstone Project by Henry Shin
 ## Business Problem
 Groceries2Go, a made up grocery store with online purchasing ability wants to predict which previously bought products a customer has purchased will be in its next order (primary goal) and wants to implement a recommendation system that suggests products based on the customer's basket, shopping history, and from other people's similiar baskets and their products (secondary goal). 
 
@@ -27,10 +27,26 @@ The data is divided into 6 files:
 2. Feature Importance using Extra Trees Classifier
 3. Logistic Regression - Binary classification model for predicting whether or not a customer will reorder a product.
 
-## Modeling
+# Conclusion
+## Results
+### Logistic Regression
+- Final Model can predict 75% precisely if a customer reorders a product. 
 
+![Confusion Matrix](logisitic_regression_CM.png)
 
-Final Model can predict 75% precisely if a customer reorders a product. 
+## Recommendations
+From this analysis I have generated the following recommendations that GroceriesToGo can utilize:
+1. Target the reordering customers with coupons and ads on most popular products overall and personal most popular ordered products
+2. Create a loyalty or points program to retain and inform customers
+3. Use these models to complement GrociesToGo POS and utilize insights to optimize supply chain and operations
+
+## Future Steps 
+There are a number of steps I would like to take in the future to improve results of this analysis. These include the following:
+
+1. What are the significant differences in traditional vs online grocery store data and trends? 
+2. Seasonal products and trends analysis.
+3. Advanced Market Basket Analysis to give insights which products are often bought together: Clustering techniques and Recommendation App 
+
 
 ## Featured Notebooks and Presentation
 * [Final Notebook](https://github.com/henryshin15/Capstone-Instacart/blob/main/Final%20Notebook.ipynb)
