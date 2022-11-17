@@ -1,7 +1,7 @@
 # Market Basket Analysis - Instacart Data
 # Capstone Project
 ## Business Problem
-A grocery store with online purchasing ability wants to predict which previously bought products a customer has purchased will be in its next order (primary goal) and wants to implement a recommendation system that suggests products based on the customer's basket, shopping history, and from other people's similiar baskets and their products (secondary goal). 
+Grocies2Go, a made up grocery store with online purchasing ability wants to predict which previously bought products a customer has purchased will be in its next order (primary goal) and wants to implement a recommendation system that suggests products based on the customer's basket, shopping history, and from other people's similiar baskets and their products (secondary goal). 
 
 ## Data Science Major Concepts
   * Market Basket Analysis (Primary Goal)
@@ -24,13 +24,12 @@ The data is divided into 6 files:
 
 # Modeling
 
-(Add some visuals for the Modeling)
 
-Final Model can predict 90% accurately if a customer reorders a product (Random Forest Classifier). 
+Final Model can predict 75% precisely if a customer reorders a product. 
 
 ## Featured Notebooks and Presentation
-* [Main Notebooks](https://github.com/henryshin15/Capstone-Instacart/blob/main/Main%20Notebook.ipynb). [Modeling](https://github.com/henryshin15/Capstone-Instacart/blob/main/Classification%20and%20Modeling.ipynb)
-* [Presentation](https://github.com/henryshin15/Capstone-Instacart/blob/main/Capstone%20Presentation-2.pdf)
+* [Final Notebook](https://github.com/henryshin15/Capstone-Instacart/blob/main/Final%20Notebook.ipynb). 
+* [Presentation](https://github.com/henryshin15/Capstone-Instacart/blob/main/Presentation.pdf)
 
 
 
