@@ -22,7 +22,12 @@ The data is divided into 6 files:
 **Order_products__train.csv**: Order id, product id, add to cart order, and reorder indicator\
 **Orders.csv**: 3,421,083 Unique order id, with user id, order number, order_dow, order_hour_of_day, days_since_prior_order, and eval_set indicating if the order is in train, prior, or test 
 
-# Modeling
+## Methods
+1. Feature Engineering Product and Customer to describe customer behavior
+2. Feature Importance using Extra Trees Classifier
+3. Logistic Regression - Binary classification model for predicting whether or not a customer will reorder a product.
+
+## Modeling
 
 
 Final Model can predict 75% precisely if a customer reorders a product. 
