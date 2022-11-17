@@ -28,7 +28,7 @@ The data is divided into 6 files:
 Final Model can predict 75% precisely if a customer reorders a product. 
 
 ## Featured Notebooks and Presentation
-* [Final Notebook](https://github.com/henryshin15/Capstone-Instacart/blob/main/Final%20Notebook.ipynb). 
+* [Final Notebook](https://github.com/henryshin15/Capstone-Instacart/blob/main/Final%20Notebook.ipynb)
 * [Presentation](https://github.com/henryshin15/Capstone-Instacart/blob/main/Presentation.pdf)
 
 
